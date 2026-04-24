@@ -1,0 +1,7 @@
+recommend_requests_total{status="200"} 5.0
+
+recommend_latency_seconds_count 5.0
+recommend_latency_seconds_sum 0.0001228
+
+process_cpu_seconds_total 0.69
+process_resident_memory_bytes 51904512

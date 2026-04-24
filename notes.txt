@@ -1,0 +1,3 @@
+Current deployed API returns identical recommendation lists for multiple tested users.
+Interpretation: deployed version appears to use a non-personalized fallback, placeholder ranking, or popularity-based candidate list.
+This will be discussed in the report as evidence of popularity bias risk, weak personalization, and possible feedback-loop amplification.
